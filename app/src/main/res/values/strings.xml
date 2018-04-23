@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FourierTransform</string>
+    <string name="title_plot">Wykres</string>
+    <string name="title_chat">Chat</string>
+    <string name="title_listen">Nasłuch</string>
+    <string name="listening">Nasłuchiwanie</string>
+    <string name="encode">Encode</string>
+    <string name="clear">Clear</string>
+</resources>
